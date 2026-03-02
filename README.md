@@ -194,5 +194,5 @@ Com base na análise de importância dos modelos:
 
 **Desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) em Data Science**
 
-**Autor**: Phelipe Quintas
+**Autor**: Phelipe Queiroz
 **Repositório**: [github.com/PhelQ/tcc-data-science](https://github.com/PhelQ/tcc-data-science)
